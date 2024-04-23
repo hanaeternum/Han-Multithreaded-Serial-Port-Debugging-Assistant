@@ -4,3 +4,5 @@ It also includes a serial oscilloscope, which can display maximum, minimum, and 
 
 1.Support real-time scanning of serial ports
 Utilize multithreading to scan serial ports and update the UI every 500ms.
+![Uploading {C3920F6E-9FFE-40ec-AAC8-9507D2CF3D41}.png…]()
+
