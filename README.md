@@ -1,4 +1,4 @@
-# Han-Han-Multithreaded-Serial-Port-Debugging-Assistant
+# Han-Multithreaded-Serial-Port-Debugging-Assistant
 
 Han is an efficient and feature-rich serial port debugging tool developed using the Qt framework. It integrates the core functionalities of serial communication and data visualization. As a powerful development assistant tool, Han aims to provide a stable, intuitive, and multithreaded serial port interaction environment for embedded system developers, electronic engineers, and data analysts.
 
